@@ -1,0 +1,8 @@
+budgget management system
+january 1
+budget: 1500
+ID: 2026001
+april: 4
+budget: 18
+00
+ID : 2026002
